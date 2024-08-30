@@ -1,0 +1,5 @@
+{
+  "item.server_selector": "Server Selector",
+  "item.lore.server_selector": "Opens server selection GUI",
+  "item.lore.when_interacted_with": "When interacted with:"
+}
