@@ -12,7 +12,7 @@ Issues that do not follow the templates will be rejected.
 
 ### 2. Feature Requests and Discussions
 
-We encourage the community to discuss new ideas, feature requests, or improvements in our [GitHub Discussions](#) forum. This is the best place to brainstorm and refine ideas before implementing them. Be sure to specify which repository or project your idea pertains to.
+We encourage the community to discuss new ideas, feature requests, or improvements in our [GitHub Discussions](https://github.com/orgs/miners-online/discussions) forum. This is the best place to brainstorm and refine ideas before implementing them. Be sure to specify which repository or project your idea pertains to.
 
 ### 3. Submitting Pull Requests
 

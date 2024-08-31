@@ -38,7 +38,7 @@ If you encounter any issues or bugs while playing on the server, please submit t
 
 ### Contributing
 
-Interested in contributing to the development of Miners Online? Check out our [Contribution Guidelines](#) to learn how you can get involved. We welcome all levels of contributions, whether it’s code, ideas, or testing.
+Interested in contributing to the development of Miners Online? Check out our [Contribution Guidelines](https://github.com/miners-online/.github/blob/main/CONTRIBUTING.md) to learn how you can get involved. We welcome all levels of contributions, whether it’s code, ideas, or testing.
 
 ## Future Plans
 
