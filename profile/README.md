@@ -1,54 +1,52 @@
 # Miners Online
 
-Welcome to **Miners Online**, a unique Minecraft server based in the United Kingdom! We're dedicated to creating a collaborative and open-source community for Minecraft enthusiasts. Below, you'll find all the information you need about our server, how you can get involved, and our future goals.
+Welcome to **Miners Online**, a collaborative, open-source platform that brings together enthusiasts to create, contribute, and innovate. Based in the United Kingdom, we aim to foster a community where anyone can join, share ideas, and help shape the future of our evolving projects. Below, you'll find details on how you can get involved and what our goals are.
 
-## Server Overview
+## Platform Overview
 
-- **Location:** United Kingdom
-- **Server Software:** [Minestom](https://minestom.net) - A modern and efficient Minecraft server software framework that allows for extensive customization.
-- **Operational Hours:** *This server does not run 24/7*. The server may be down at times for development, maintenance, or due to server operation schedules.
-- **Current Status:** The server is in an early, non-ready state. **Anyone** is welcome to join, explore, and contribute to its development.
+Miners Online is designed to support community-driven projects using modern, flexible frameworks that allow for creativity and innovation. Based in the United Kingdom, the platform may not always be active 24/7, as there may be scheduled downtime for maintenance, updates, or development. However, when the platform is live, **everyone** is welcome to explore, contribute, and help shape its future.
 
 ## Goals and Vision
 
-Miners Online aims to create a Minecraft server where the core utilities and features are open-sourced, allowing the community to contribute, modify, and improve the server's functionality. Our key objectives include:
+Miners Online is an open, collaborative space where the core tools and utilities are open-sourced, encouraging community-driven development. Our main objectives include:
 
-1. **Opensource Utilities:** We plan to open-source most of the core utilities that power the server, enabling anyone to view, modify, and contribute to the server’s development.
+1. **Open-Source Projects:** We are committed to releasing the majority of our core systems as open-source, enabling the community to contribute, modify, and enhance the platform.
 
-2. **Community-Driven Development:** By leveraging platforms like GitHub, we encourage players and developers to actively participate in discussions, report issues, and propose new features.
+2. **Community-Driven Development:** By encouraging open discussions and development contributions through platforms like GitHub, we invite developers, users, and contributors to shape the direction of our projects.
 
-3. **Inclusive Environment:** Whether you are a developer, a player, or just curious, you are welcome to join our server, explore what we have to offer, and contribute in your own way.
+3. **Inclusive Collaboration:** Whether you're an experienced developer, a creative thinker, or simply interested in contributing, you are welcome to explore, suggest ideas, or take part in the platform’s development process.
 
-## How to Join the Server
+## How to Get Involved
 
-Since the server is not operational 24/7, please note that you might not always be able to connect. However, when the server is up, you can join using the following details:
+Although the platform may not be available 24/7, there are always opportunities to get involved when it is live. Whether you're contributing code, sharing ideas, or testing new features, your participation is invaluable.
 
-- **Server Address:** `minersonline.uk`
-- **Minecraft Version:** Java edition, 1.7+ (however 1.21+ provides the best experience)
+To get started, visit [minersonline.uk](http://minersonline.uk), where you can learn more about ongoing projects, find opportunities to collaborate, and engage with the community. Through our site, you can stay updated on the latest developments, interact with other contributors, and join discussions about future projects.
 
-## Get Involved
+## Discussions, Feedback, and Contributions
 
-### Discussions and Feedback
+### Community Feedback
 
-We actively encourage community discussions and feedback. You can share your thoughts, ask questions, or suggest improvements in our [GitHub Discussions](https://github.com/orgs/miners-online/discussions) page.
+We value your thoughts and ideas. Join the conversation on our [GitHub Discussions](https://github.com/orgs/miners-online/discussions) page, where you can share feedback, ask questions, or suggest improvements. Community involvement is key to making the platform better for everyone.
 
 ### Reporting Issues
 
-If you encounter any issues or bugs while playing on the server, please submit them through our [GitHub Issues](https://github.com/miners-online/.github/issues) page. Make sure to provide as much detail as possible to help us resolve the problem efficiently.
+If you encounter any issues while interacting with Miners Online, please report them via our [GitHub Issues](https://github.com/miners-online/.github/issues) page. Providing detailed information will help us resolve problems more efficiently and improve the platform.
 
-### Contributing
+### Contribution Opportunities
 
-Interested in contributing to the development of Miners Online? Check out our [Contribution Guidelines](https://github.com/miners-online/.github/blob/main/CONTRIBUTING.md) to learn how you can get involved. We welcome all levels of contributions, whether it’s code, ideas, or testing.
+If you’re interested in helping develop Miners Online, you can start by reviewing our [Contribution Guidelines](https://github.com/miners-online/.github/blob/main/CONTRIBUTING.md). We welcome all contributions—whether it’s code, ideas, or testing—and your involvement will help drive the platform forward.
 
 ## Future Plans
 
-As Miners Online continues to evolve, we have several plans in the pipeline:
+As Miners Online continues to grow, we have several exciting plans in the works:
 
-- **Expanding Open-Source Contributions:** Gradually release more of our server’s core functionalities to the public.
-- **Scheduled Events:** Organize community events and play sessions to foster a more engaged and interactive player base.
-- **Feature Enhancements:** Continuously improve the server with new features, optimizations, and custom content.
+- **Expanding Open-Source Contributions:** We will keep releasing more tools and systems as open-source, empowering the community to drive development.
+- **Hosting Collaborative Events:** We plan to organize community discussions, workshops, and interactive sessions to encourage engagement and collaboration.
+- **Ongoing Feature Development:** Based on community feedback and contributions, regular updates will bring new features, optimizations, and tools.
 
-We look forward to building an amazing Minecraft experience with you!
+## Projects by Miners Online
 
-Happy Mining!  
-**The Miners Online Team**
+1. [**Miners Online Wiki**](https://minersonline.uk)
+   A knowledge-sharing platform where contributors can create, edit, and maintain documentation, tutorials, and FAQs related to projects hosted by Miners Online.
+2. **A Minecraft server**
+   A collaborative, open-source, Minestom powered, minigame server, in development, where players and developers work together to create and innovate unique, community-driven gameplay experiences.
