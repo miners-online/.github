@@ -6,6 +6,13 @@ Welcome to **Miners Online**, a collaborative, open-source platform that brings 
 
 Miners Online is designed to support community-driven projects using modern, flexible frameworks that allow for creativity and innovation. Based in the United Kingdom, the platform may not always be active 24/7, as there may be scheduled downtime for maintenance, updates, or development. However, when the platform is live, **everyone** is welcome to explore, contribute, and help shape its future.
 
+## Projects by Miners Online
+
+1. [**Miners Online Wiki**](https://minersonline.uk)
+   A knowledge-sharing platform where contributors can create, edit, and maintain documentation, tutorials, and FAQs related to projects hosted by Miners Online.
+2. **A Minecraft server**
+   A collaborative, open-source, Minestom powered, minigame server, in development, where players and developers work together to create and innovate unique, community-driven gameplay experiences.
+
 ## Goals and Vision
 
 Miners Online is an open, collaborative space where the core tools and utilities are open-sourced, encouraging community-driven development. Our main objectives include:
@@ -43,10 +50,3 @@ As Miners Online continues to grow, we have several exciting plans in the works:
 - **Expanding Open-Source Contributions:** We will keep releasing more tools and systems as open-source, empowering the community to drive development.
 - **Hosting Collaborative Events:** We plan to organize community discussions, workshops, and interactive sessions to encourage engagement and collaboration.
 - **Ongoing Feature Development:** Based on community feedback and contributions, regular updates will bring new features, optimizations, and tools.
-
-## Projects by Miners Online
-
-1. [**Miners Online Wiki**](https://minersonline.uk)
-   A knowledge-sharing platform where contributors can create, edit, and maintain documentation, tutorials, and FAQs related to projects hosted by Miners Online.
-2. **A Minecraft server**
-   A collaborative, open-source, Minestom powered, minigame server, in development, where players and developers work together to create and innovate unique, community-driven gameplay experiences.
