@@ -10,7 +10,7 @@ Miners Online is designed to support community-driven projects using modern, fle
 
 1. [**Miners Online Wiki**](https://minersonline.uk)
    A knowledge-sharing platform where contributors can create, edit, and maintain documentation, tutorials, and FAQs related to projects hosted by Miners Online.
-2. **A Minecraft server**
+2. [**A Minecraft server**'(https://minersonline.uk/bin/view/Minecraft%20Server/)
    A collaborative, open-source, Minestom powered, minigame server, in development, where players and developers work together to create and innovate unique, community-driven gameplay experiences.
 
 ## Goals and Vision
