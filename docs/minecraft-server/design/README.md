@@ -1,4 +1,4 @@
 # Table of Contents
 
-- [index](./index.md)
-- [database](./database.md)
+- [index](./player_statistics/index.md)
+- [database](./player_statistics/database.md)
