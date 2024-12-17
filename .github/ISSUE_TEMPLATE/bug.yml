@@ -3,6 +3,7 @@ description: Template for bug reports
 title: '[Bug]: '
 labels:
   - bug
+  - triage
 body:
   - type: textarea
     attributes:
