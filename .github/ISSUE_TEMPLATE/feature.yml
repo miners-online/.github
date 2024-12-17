@@ -3,6 +3,7 @@ description: Template for requsting a feature
 title: '[Feature Request]: '
 labels:
   - enhancement
+  - triage
 body:
   - type: textarea
     attributes:
