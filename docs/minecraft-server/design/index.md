@@ -1,9 +1,8 @@
-An API for tracking player statistics across multiple minigames. Here's a breakdown:
+## Player Statistics API
 
-### **Player Statistics API**
 **Purpose**: Centralize the collection, storage, and retrieval of player statistics across all minigames.
 
-#### **Key Features**
+### Key Features
 1. **Data Collection**
    - Track statistics such as:
      - Games played, wins, and losses.
@@ -30,7 +29,7 @@ An API for tracking player statistics across multiple minigames. Here's a breakd
    - Provide aggregate statistics for server admins, such as the popularity of different minigames or average player performance.
    - Expose trends like player retention or progression rates.
 
-#### **Implementation Notes**
+### Implementation Notes
 - **Database Design**: Use a relational database to store statistics.
 - **Performance Optimization**: Cache frequently requested data like leaderboards to reduce database queries.
 - **Minigame Integration**: Provide an SDK or library that minigames can use to easily report stats to the API.
