@@ -15,14 +15,10 @@ body:
     attributes:
       label: What project is this bug related to?
       options:
-        - label: Minecraft Server
-          value: project/minecraft-server
-        - label: Website
-          value: project/website
-        - label: History Survival
-          value: project/history-survival
-        - label: GT MOS
-          value: project/gt-mos
+        - Minecraft Server
+        - Website
+        - History Survival
+        - GT MOS
     validations:
       required: true
   - type: textarea
