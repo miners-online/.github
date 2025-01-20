@@ -1,25 +1,15 @@
-name: Bug report
-description: Template for bug reports
-title: '[Bug]: '
+name: Bug report (History Survival)
+description: Template for History Survival bug reports
+title: '[Bug (History Survival)]: '
+type: Bug
 labels:
-  - bug
+  - project/history-survival
   - triage
 body:
   - type: textarea
     attributes:
       label: Description
       description: A clear and concise description of the problem
-    validations:
-      required: true
-  - type: dropdown
-    id: project
-    attributes:
-      label: What project is this bug related to?
-      options:
-        - Minecraft Server
-        - Website
-        - History Survival
-        - GT MOS
     validations:
       required: true
   - type: textarea
