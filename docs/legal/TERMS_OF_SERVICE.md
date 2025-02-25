@@ -39,7 +39,7 @@ Miners Online encourages contributions from the community. By submitting code, f
 All intellectual property rights related to Miners Online, including but not limited to the server software, website, logos, and documentation, are owned by Miners Online or its licensors. You may not use any of our intellectual property without prior written consent.
 
 ##  8. **Privacy and Data Collection**
-Miners Online respects your privacy. By using our services, you consent to our collection and use of personal data as described in our [Privacy Policy](link to privacy policy). You are encouraged to review this policy to understand how your data is handled.
+Miners Online respects your privacy. By using our services, you consent to our collection and use of personal data as described in our [Privacy Policy]([link to privacy policy](https://github.com/miners-online/.github/blob/main/docs/legal/PRIVACY_POLICY.md)). You are encouraged to review this policy to understand how your data is handled.
 
 ##  9. **Limitation of Liability**
 Miners Online provides its services "as is" and makes no warranties or representations regarding the availability, accuracy, or reliability of the services. We are not liable for any damages or losses, direct or indirect, arising from your use of the services.
