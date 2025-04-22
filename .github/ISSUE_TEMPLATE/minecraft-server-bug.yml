@@ -1,6 +1,8 @@
 name: Bug report (Minecraft Server)
 description: Template for Minecraft Server bug reports
 title: '[Bug (Minecraft Server)]: '
+projects:
+  - 'Minecraft Server Development'
 type: Bug
 labels:
   - project/minecraft-server
