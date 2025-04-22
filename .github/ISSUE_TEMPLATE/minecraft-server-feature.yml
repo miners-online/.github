@@ -1,6 +1,8 @@
 name: Feature Request (Minecraft Server)
 description: Template for requesting a Minecraft Server feature
 title: '[Feature Request (Minecraft Server)]: '
+projects:
+  - 'miners-online/2'
 type: Feature
 labels:
   - project/minecraft-server
