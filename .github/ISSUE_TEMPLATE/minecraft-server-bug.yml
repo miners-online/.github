@@ -1,9 +1,9 @@
-name: Bug report (History Survival)
-description: Template for History Survival bug reports
-title: '[Bug (History Survival)]: '
+name: Bug report (Minecraft Server)
+description: Template for Minecraft Server bug reports
+title: '[Bug (Minecraft Server)]: '
 type: Bug
 labels:
-  - project/history-survival
+  - project/minecraft-server
   - triage
 body:
   - type: textarea
