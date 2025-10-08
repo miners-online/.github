@@ -6,7 +6,7 @@ Thank you for your interest in contributing to **Miners Online**! We value your 
 
 ### 1. Reporting Issues
 
-If you encounter any bugs, performance issues, or have feature requests, please report them on our [GitHub Issues](https://github.com/miners-online/.github/issues) page. When reporting an issue, please fill out the provide templates.
+If you encounter any bugs, performance issues, or have feature requests, please report them on the relvant repoistory. When reporting an issue, please fill out the provide templates.
 
 Issues that do not follow the templates will be rejected.
 
