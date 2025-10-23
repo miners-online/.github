@@ -2,11 +2,12 @@
 
 **Miners Online** is a small, open-source Minecraft server project maintained by a single developer in the UK since 2017. It is a personal project for experimenting with server development, testing new features, and sharing code openly with anyone interested in learning or contributing.
 
-## Key repoistories
+## Key repoistories and information
 
 * [**`webstie`**](https://github.com/miners-online/website): All our frontend code for the Miners Online website
 * [**`monoreop`**](https://github.com/miners-online/monorepo): All game code and supporting APIs
 * [**`infra`**](https://github.com/miners-online/infra): Infrastructure-as-Code for managing Miners Online server infrastructure on Kubernetes, currentlly WIP
+* [**Project roadmap**](https://github.com/orgs/miners-online/projects/2): Our complete project development roadmap
 
 ## Get Involved
 
