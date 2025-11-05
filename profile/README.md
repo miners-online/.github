@@ -4,7 +4,7 @@
 
 ## Key repoistories and information
 
-* [**`webstie`**](https://github.com/miners-online/website): All our frontend code for the Miners Online website
+* [**`web-monoreop`**](https://github.com/miners-online/web-monorepo): The combined home for all our web services
 * [**`monoreop`**](https://github.com/miners-online/monorepo): All game code and supporting APIs
 * [**`infra`**](https://github.com/miners-online/infra): Infrastructure-as-Code for managing Miners Online server infrastructure on Kubernetes, currentlly WIP
 * [**Project roadmap**](https://github.com/orgs/miners-online/projects/2): Our complete project development roadmap
