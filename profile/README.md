@@ -1,6 +1,6 @@
 # Miners Online
 
-**Miners Online** is a small, open-source Minecraft server project maintained by a single developer in the UK since 2017. It is a personal project for experimenting with server development, testing new features, and sharing code openly with anyone interested in learning or contributing.
+**Miners Online** is a small, open-contribution **(not open source!)** Minecraft server project maintained by a single developer in the UK ongoining since 2017. It is a personal project for experimenting with server development, testing new features, and sharing code openly with anyone interested in learning or contributing.
 
 ## Key repoistories and information
 
@@ -18,3 +18,5 @@ You can participate in the project in several ways:
 * Report issues on the relevant repoistory
 
 Miners Online exists as a **personal, open-ended project** to explore Minecraft server development and maintain a space for experimentation and learning.
+
+**Miners Online software is typicaly licensed with the [Miners Online Public Software License](https://github.com/miners-online/.github/blob/main/docs/legal/MOPSL.md), generally this means you can fork and help with Miners Online development but not use our software to launch a new compeitor. *Miners Online is open-contribution not open-source*. To understand the full terms of the license see the [Miners Online Public Software License](https://github.com/miners-online/.github/blob/main/docs/legal/MOPSL.md).**
